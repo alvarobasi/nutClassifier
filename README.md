@@ -10,3 +10,6 @@ The phases carried out throughout the project where the following:
 - SVM training using the resulting normalized features.
 
 # The GUI #
+![alt text](https://github.com/alvarobasi/nutClassifier/blob/master/classifier_image.png)
+
+The program consists of a main window in which we find two widgets where we can see the result of the thresholding process in the left side, and the result of the classification in the right side, so that it is possible to check the quality of the segmentation with certain light and classification conditions. Three buttons have been placed under these views: the first one to classify the nuts located within a selected image stored in the local computer, the second one to start a video capture to test the classification performance in real-time, and the last one to perform a training of the SVM classifier using the set of images located in the program's main directory. This folder can be filled with more nut images in order to improve the classification performance. Once the training process is finished, a new window will prompted giving information about the success percentage during the test process and the confusion matrix corresponding to this process.
