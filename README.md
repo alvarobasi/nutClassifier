@@ -16,4 +16,4 @@ The program consists of a main window in which we find two widgets where we can 
 
 # Demo #
 In this section a video demo of the project can be found.
-[![IMAGE ALT TEXT HERE](https://youtu.be/LyU9x2qVVVE/0.jpg)](https://youtu.be/LyU9x2qVVVE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LyU9x2qVVVE/0.jpg)](https://youtu.be/LyU9x2qVVVE)
